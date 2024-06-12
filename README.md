@@ -1,1 +1,1 @@
-# to-be-list
+Esto es un modelo de archivos el cual consiste en crear una base de datos para poder administrar tipos tareas y, el objetivo principal de esta practica es la implementacion del servio WebHost para arrojar esta aplicacion en la nube mediante un servidor, a diferencia de como antes se hacia que era de manera local.
